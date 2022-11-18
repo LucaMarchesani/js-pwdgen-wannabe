@@ -1,0 +1,17 @@
+body {
+    background-color: teal;
+    font-family: 'Sono', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: springgreen;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+p#output {
+    text-transform: capitalize;
+    font-weight: 700;
+    color: whitesmoke;
+}
